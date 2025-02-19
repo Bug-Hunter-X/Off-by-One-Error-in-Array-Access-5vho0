@@ -1,0 +1,3 @@
+# Off-by-One Error in C Array Access
+
+This repository demonstrates a common off-by-one error in C programming, specifically when accessing elements of an array. The error occurs due to an incorrect loop condition, which results in an attempt to access memory outside the bounds of the array, leading to undefined behavior and potential crashes.  The solution shows how to correct the loop condition to avoid this issue. 
